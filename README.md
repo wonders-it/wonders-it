@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wonders-it
+- 👀 I’m interested in hacking and programming
+- 🌱 I’m currently mastering hacking with python
+- 💞️ I’m looking to collaborate on any software project, I have two(2) years programming experience in general.
+- 📫 How to reach me wondersdipaizy@gmail.com
